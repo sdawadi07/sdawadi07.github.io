@@ -4,7 +4,7 @@ Personal portfolio website for Swastika Dawadi, Computer Science senior at the U
 
 ## What it covers
 
-- About / hero section
+- About Section
 - Work experience (timeline)
 - Selected projects with GitHub links
 - Honors & awards
@@ -31,27 +31,7 @@ portfolio/
 └── README.md
 ```
 
-## Run locally
 
-Just open `index.html` directly in any browser — no server needed.
 
-If you prefer a local server (avoids any browser restrictions with file:// URLs):
 
-```bash
-# Python 3
-python3 -m http.server 8080
-# then open http://localhost:8080
-```
 
-## Deploy
-
-### GitHub Pages (recommended)
-
-1. Push this folder to a GitHub repository.
-2. Go to **Settings → Pages**.
-3. Set source to the `main` branch, root folder (`/`).
-4. GitHub will publish the site at `https://<username>.github.io/<repo-name>/`.
-
-### Netlify / Vercel
-
-Drag and drop the project folder onto [netlify.com/drop](https://app.netlify.com/drop) for an instant deploy, or connect your GitHub repo for automatic deploys on every push.
