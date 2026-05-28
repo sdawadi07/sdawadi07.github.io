@@ -1,6 +1,6 @@
 # Swastika Dawadi — Personal Portfolio
 
-Personal portfolio website for Swastika Dawadi, Computer Science senior at the University of New Mexico.
+This is a personal portfolio website for Swastika Dawadi, Computer Science senior at the University of New Mexico.
 
 ## What it covers
 
